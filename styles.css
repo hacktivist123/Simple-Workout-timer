@@ -1,0 +1,45 @@
+h2 {
+  text-align: center;
+  font-family: Helvetica;
+  color: darkgreen;
+}
+
+#CountUpTimer { 
+  width: 280px; 
+  height: auto; 
+  text-align: center;
+  display:  block; 
+  padding: 5px; 
+  margin: 0 auto; 
+}
+#timer{
+  width: auto;
+  height: auto;
+  background-color: #fbfbf0;
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 20px;
+  border: 2px solid #eee;
+  color: darkgreen;
+  padding: 10px;   
+  display: block;   
+  text-align: center;  
+  border: 1px solid;
+  box-shadow: 5px 10px;
+  }
+#buttons{
+  cursor: pointer; 
+  font-weight: 700;
+  
+}
+#currenttime {
+  display:none; 
+  font-size:16px; 
+  font-weight:bold;
+  font-family: Verdana;
+  color: darkred;
+} 
+#footer{
+  text-align: center;
+  height: 100px;
+}
